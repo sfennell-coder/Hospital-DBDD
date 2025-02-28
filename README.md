@@ -5,4 +5,4 @@ cover page, version history, table of contents, typed purpose and narrative, rol
 business rules, ERD, EERD, RS diagram, and data dictionary.
 Software used: MS Word, Visio, and SQL Server Management Studio.
 
-To view document click on "view raw"
+To view document click on "view raw" for the word doc or simply view the pdf format within GitHub web browser.
